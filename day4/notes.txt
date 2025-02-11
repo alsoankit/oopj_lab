@@ -1,0 +1,5 @@
+Super is always used inside a sub class.
+Uses of Super - It is used to invoke or execute super class constructor inside a sub class constructor.
+  - When subclass and superclass share a common name. In subclass, to differentiate between both data members we use supert to refer to the data member of the parent class. 
+
+A superclass reference variable can point to a subclass object b
